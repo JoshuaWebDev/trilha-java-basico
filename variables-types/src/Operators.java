@@ -1,5 +1,15 @@
 public class Operators {
     public static void main(String[] args) {
+        boolean condition1 = true, condition2 = false;
+
+        if (condition1 && condition2) {
+            System.out.println("Both conditions are true");
+        }
+
+        if (condition1 || condition2) {
+            System.out.println("One of two conditions is true");
+        }
+
         int a, b, c;
         a = 5;
         b = 6;
