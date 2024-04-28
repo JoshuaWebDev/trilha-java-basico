@@ -1,6 +1,14 @@
-## Getting Started
+# Simulating Smart TV Program
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Functions or Methods
+
+- **turnOn()** - turn on the tv.
+- **turnOff()** - turn off the tv.
+- **volumeUp()** - increases a unit the volume.
+- **volumeDown()** - decreases a unit the volume.
+- **channelUp()** - increases a unit the channel.
+- **channelDown()** - decreases a unit the channel.
+- **changeChannel(int newChannel)** - change the channel by the param value.
 
 ## Folder Structure
 

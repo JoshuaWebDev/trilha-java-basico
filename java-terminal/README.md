@@ -1,6 +1,11 @@
-## Getting Started
+# AboutMe Program
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Input Fields
+
+- Name
+- Last Name
+- Age
+- Height
 
 ## Folder Structure
 
