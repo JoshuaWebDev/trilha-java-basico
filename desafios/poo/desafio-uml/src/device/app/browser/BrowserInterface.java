@@ -1,6 +1,6 @@
 package device.app.browser;
 
-public interface Browser {
+public interface BrowserInterface {
 
     public abstract void toShowPage(String url);
 

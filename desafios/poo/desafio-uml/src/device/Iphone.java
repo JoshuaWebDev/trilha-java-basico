@@ -1,10 +1,10 @@
 package device;
 
-import device.app.browser.Browser;
-import device.app.phone.Phone;
-import device.app.music.Music;
+import device.app.browser.BrowserInterface;
+import device.app.phone.PhoneInterface;
+import device.app.music.MusicInterface;
 
-public class Iphone implements Browser, Phone, Music {
+public class Iphone implements BrowserInterface, PhoneInterface, MusicInterface {
     @Override
     public void toShowPage(String url) {
         System.out.println("Accessing " + url);

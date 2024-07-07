@@ -1,6 +1,6 @@
 package device.app.phone;
 
-public interface Phone {
+public interface PhoneInterface {
 
     public abstract void toCall(String number);
 

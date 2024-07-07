@@ -1,6 +1,6 @@
 package device.app.music;
 
-public interface Music {
+public interface MusicInterface {
 
     public abstract void toPlay();
 
